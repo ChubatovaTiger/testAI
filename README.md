@@ -1,1 +1,1 @@
-test.bat parameter1
+test.sh parameter1
