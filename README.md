@@ -1,1 +1,1 @@
-test.sh parameter1
+mvn clean install
