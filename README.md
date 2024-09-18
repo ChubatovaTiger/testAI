@@ -1,1 +1,1 @@
-mvn clean install
+test.sh par
